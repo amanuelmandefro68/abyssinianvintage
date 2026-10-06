@@ -1,5 +1,5 @@
 {
-  "buildCommand": null,
+  "buildCommand": "echo 'Static build'",
   "outputDirectory": ".",
   "cleanUrls": true
 }
